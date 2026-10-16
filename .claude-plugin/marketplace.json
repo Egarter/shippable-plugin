@@ -1,0 +1,16 @@
+{
+  "name": "shippable",
+  "owner": {
+    "name": "Shippable",
+    "url": "https://shippable.dev"
+  },
+  "description": "Shippable: security checks for AI-built apps, from inside Claude Code.",
+  "plugins": [
+    {
+      "name": "shippable",
+      "source": "./",
+      "description": "Find the security leaks in your AI-built app before you ship. Read-only, with proof and fixes.",
+      "category": "security"
+    }
+  ]
+}

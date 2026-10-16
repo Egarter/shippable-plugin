@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "shippable": { "command": "npx", "args": ["-y", "shippable-dev", "mcp"] }
+  }
+}

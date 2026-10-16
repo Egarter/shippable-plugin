@@ -1,0 +1,10 @@
+{
+  "name": "shippable",
+  "version": "1.0.0",
+  "description": "Check an AI-built app for security leaks before you ship: open Supabase or Firebase data, secret keys in the browser, edge functions anyone can call, and logic bugs. Read-only, with proof and fixes.",
+  "author": { "name": "Shippable", "url": "https://shippable.dev" },
+  "homepage": "https://shippable.dev/mcp",
+  "repository": "https://github.com/Egarter/shippable-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["security", "supabase", "firebase", "vibe-coding", "lovable", "code-review"]
+}
