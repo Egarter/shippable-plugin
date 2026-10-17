@@ -1,6 +1,6 @@
 {
   "name": "shippable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check an AI-built app for security leaks before you ship: open Supabase or Firebase data, secret keys in the browser, edge functions anyone can call, and logic bugs. Read-only, with proof and fixes.",
   "author": { "name": "Shippable", "url": "https://shippable.dev" },
   "homepage": "https://shippable.dev/mcp",
